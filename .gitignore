@@ -216,3 +216,4 @@ app/*.ldb
 docs/*.ldb
 *.ldb
 *.ini
+!build.spec
